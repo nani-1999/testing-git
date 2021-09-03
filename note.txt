@@ -1,0 +1,7 @@
+git log       |-- to see git online repository commit id
+git remote -v |-- to get current git repository link
+
+version control
+git add .                   |-- to add all file to commit
+git commit -m "commit_name" |-- giving a name to commit
+git push -u origin master   |-- this will add the commit to the online repository
